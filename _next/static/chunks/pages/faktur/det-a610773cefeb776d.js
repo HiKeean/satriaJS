@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[892],{1429:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/faktur/det",function(){return t(9638)}])},9638:function(n,u,t){"use strict";t.r(u);var _=t(5893);t(7294),u.default=()=>(0,_.jsx)("div",{children:"index"})}},function(n){n.O(0,[888,774,179],function(){return n(n.s=1429)}),_N_E=n.O()}]);
